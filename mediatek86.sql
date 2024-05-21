@@ -239,7 +239,6 @@ INSERT INTO `document` (`id`, `titre`, `image`, `idRayon`, `idPublic`, `idGenre`
 ('00024', 'Pavillon noir', '', 'BD001', '00002', '10001'),
 ('00025', 'L\'archipel du danger', '', 'BD001', '00002', '10001'),
 ('00026', 'La planète des singes', '', 'LV002', '00003', '10002'),
-('00027', 'Samantha est obligée de corriger ses erreurs', '', 'BD001', '00004', '10018'),
 ('00028', 'Ajout d\'un livre', '', 'BL001', '00002', '10009'),
 ('10001', 'Arts Magazine', '', 'PR002', '00002', '10016'),
 ('10002', 'Alternatives Economiques', '', 'PR002', '00002', '10015'),
